@@ -1,2 +1,2 @@
 # Fredogram
-An Unofficial Telegram Client
+Unofficial Telegram Client
